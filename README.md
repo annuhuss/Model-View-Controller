@@ -17,7 +17,7 @@ Model-View-Controller(MVC)
 <h4><i>Model:</i></h4>
 <p>
 Model is the central component of the pattern which is independent of        the user interface. It directly manages the data, for example, fetches 
-the data by interacting with database in the backend when needed.
+the data by interacting with database in the back-end when needed.
 It also plays with logic and rules of the application. The communication between model and controller is an essential part of the MVC. 
 </p>
 
@@ -28,7 +28,7 @@ It is view's responsibility to display the data when they are available from the
 
 <h4><i>Controller:</i></h4>
 <p>
-The controller handles requests from the users and checks whether the imput data are valid, then forwords the data to the model or view. Overall, it connects to all parts of the MVC.  	    
+The controller handles requests from the users and checks whether the input data are valid, then forwards the data to the model or view. Overall, it connects to all parts of the MVC.  	    
 </p>
 
 <h4><i>Route:</i></h4>
@@ -55,7 +55,7 @@ The <span><strong>index.php</strong></span> file combines all the parts of the M
 I tried to make the example as simple as possible for describing the MVC and for that reason, I have located the database segment inside the model. Nevertheless, for a real-world application, you will always work with text-files or most commonly with databases and these data storage will be filled with users authenticated information. Additionally means, they are usually detached from the model.
 </p>
 <p>
-For the sake of simplicity, I have just stored three pairs of username and password as an admin for determining authenticated users. In this case, each authenticated users obviously enters a pair of username and password out of the set below correctly, sothat he or she will have an access in the auditorium. On the other hand, for every unauthorized users, the access will be denied.
+For the sake of simplicity, I have just stored three pairs of username and password as an admin for determining authenticated users. In this case, each authenticated users obviously enters a pair of username and password out of the set below correctly, so that he or she will have an access in the auditorium. On the other hand, for every unauthorized users, the access will be denied.
 </p>
 
 <pre><i> 
