@@ -68,13 +68,8 @@ For the sake of simplicity, I have just stored three pairs of username and passw
 
 <br>
 <p><i>
-Hopefully this article supplies you a handy source for understanding how a Model-View-Controller architecture pattern works in a simple but effective way by the aid of the given example.
+Hopefully this article will be a handy source for understanding how a Model-View-Controller architecture pattern works in a simple but effective way.
 </i></p>
-
-<p><i>
-Any of yours valuable comments and suggestions for the MVC example would be greatly appreciated. 
-</i></p>
-
 
 <p><i>
 A details of the example and some of other related programming topics can be found in 
