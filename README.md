@@ -75,6 +75,3 @@ Hopefully this article will be a handy source for understanding how a Model-View
 A details of the example and some of other related programming topics can be found in 
 <a href="https://medium.com/@annuhuss/">the medium blog site</a>.
 </i></p>
-
-<br>
-<h3><em>Cheers</em></h3>
