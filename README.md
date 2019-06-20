@@ -4,7 +4,7 @@
 Model-View-Controller(MVC)
 </i></h1>
 
-<p><em>MVC</em><i> is an architecture pattern commonly used for developing user interfaces that divides an application into three interconnected parts, </i><a href="https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller"><i>Model-View-Controller</i></a>. <i>MVC pattern is one of the first approaches to describe and implement software constructs in terms of their responsibilities, especially for developing graphical user interfaces.</i>
+<p><em>MVC</em><i> is an architecture pattern commonly used for developing user interfaces that divides an application into three interconnected parts, <strong>Model-View-Controller</strong>. <i>MVC pattern is one of the first approaches to describe and implement software constructs in terms of their responsibilities, especially for developing graphical user interfaces, </i><a href="https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller">Wiki</a></i>.
 </p>
 
 <p>
