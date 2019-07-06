@@ -37,11 +37,11 @@ Routing make it possible to get any requests from the users to the controller an
 <h4><i>A MVC Example:</i></h4>
 
 <p>
-To depict the MVC pattern I have programmed the example using HTML and PHP language. Obviously this example is reflected with the above description.
+To depict the MVC pattern I have programmed the example using HTML and PHP language. Obviously this example is reflected by the above description.
 </p>
 
 <p>
-The <span><strong>index.php</strong></span> file combines all the parts of the MVC example as well as the route/HTTP that receives any requests from the users and displays the corresponding responses to the users. 
+The <span><strong>index.php</strong></span> file combines all the parts of the MVC example as well as the route/HTTP that produces an authentication request from a user and sends a response for the request to the user. 
 </p>
 
 <p>
@@ -58,7 +58,7 @@ One needs to execute <b>index.php</b> file. This file operates on the following 
 I tried to make the example as simple as possible for describing the MVC and for that reason, I have located the database segment inside the model. Never the less, for a real-world application, you will always work with text-files for a small amount of data or most commonly with databases, e.g. MySQL for dealing with a large amount of data. These data storage will be filled with users information which indicates, they are usually detached from the model but maintain a safe and robust communication between each other.
 </p>
 <p>
-For the sake of simplicity, I have just stored three pairs of username and password as an admin for determining authenticated users. In this case, each authenticated users certainly enters a pair of username and password out of the set below correctly, so that he or she will have an access to, let’s say, in the auditorium to watch the belle dance. On the other hand, an unauthorized user’s access will be denied for getting the entrance.
+For the sake of simplicity, I have just stored three pairs of username and password as an admin for determining authenticated users. In this case, each authenticated users certainly enters a pair of username and password out of the set below correctly, so that he or she will have an access to something. On the other hand, any illegal user’s access will be denied.
 </p>
 
 <pre><i> 
