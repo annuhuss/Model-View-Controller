@@ -72,6 +72,6 @@ Hopefully this article will be a handy source for understanding how a Model-View
 </i></p>
 
 <p><i>
-A details of the example and some of other related programming topics can be found in 
+A detail illustration on this topic and some of my other Object-Oriented-Programming articles can be found in
 <a href="https://medium.com/@annuhuss/">the medium blog site</a>.
 </i></p>
