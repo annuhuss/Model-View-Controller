@@ -58,20 +58,27 @@ One needs to execute <b>index.php</b> file. This file operates on the following 
 I tried to make the example as simple as possible for describing the MVC and for that reason, I have located the database segment inside the model. Never the less, for a real-world application, you will always work with text-files for a small amount of data or most commonly with databases, e.g. MySQL for dealing with a large amount of data. These data storage will be filled with users information which indicates, they are usually detached from the model but maintain a safe and robust communication between each other.
 </p>
 <p>
-For the sake of simplicity, I have just stored three pairs of username and password as an admin for determining authenticated users. In this case, each authenticated users certainly enters a pair of username and password out of the set below correctly, so that he or she will have an access to something. On the other hand, any illegal user’s access will be denied.
+For the sake of simplicity, I have just stored three pairs of username and password as an admin for determining authenticated users. In this case, each authenticated users certainly enters a pair of username and password out of the set below correctly, so that he or she will have an access to something. On the other hand, trying to access by any illegal user will be denied.
 </p>
 
-<pre><i> 
+<pre>
+<i> 
  &#123;&#123;'username1', 'password1'&#125;, &#123;'username2', 'password2'&#125;, &#123;'username3','password3'&#125;&#125;
  </i>
  </pre>
 
 <br>
-<p><i>
-Hopefully this article will be a handy source for understanding how a Model-View-Controller architecture pattern works in a simple but effective way.
-</i></p>
+<p>
+Hopefully by this article we now have the basic understanding of how a Model-View-Controller architecture pattern works. That's all for today! Next time, I will definitely come with some of PHPs OOP features.
+</p>
+
+<p></p>
+
+<p><i>Stars from the audience would be always appreciated.</i></p>
+
+<p></p>
 
 <p><i>
-A detail illustration on this topic and some of my other Object-Oriented-Programming articles can be found in
+A detail illustration of this topic and some of my other articles on different topics can be reached by 
 <a href="https://medium.com/@annuhuss/">the medium blog site</a>.
 </i></p>
